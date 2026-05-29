@@ -1,6 +1,6 @@
 ﻿# 🌿 <img width="107" height="45" alt="Twoleaves_logo" src="https://github.com/user-attachments/assets/c26cadaa-bdf2-4010-8b9c-5bfa81618d07" />
 
- Responsive Tea Landing Page
+## Responsive Tea Landing Page
 
 A beautifully crafted and fully responsive tea brand landing page built using pure **HTML5** and **CSS3**.  
 This project focuses on elegant layouts, smooth typography, aesthetic visuals, and modern responsive design principles without using any frameworks or JavaScript.
